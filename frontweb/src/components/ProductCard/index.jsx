@@ -4,7 +4,7 @@ import ProductPrice from 'components/ProductPrice';
 const ProductCard = () => {
     return (
         
-        <div className='base-card'>
+        <div className='base-card product-card'>
             <div className='card-top-container'>
                 <img src={ProductImg} alt="Nome do produto" />
                 
